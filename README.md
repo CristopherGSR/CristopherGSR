@@ -2,12 +2,14 @@
 
 <h2>¡Hola!, Soy Cristopher Gomez👋</h2>
 <p>🎓Actualmente estoy en mi camino como desarrollador web, explorando y adquiriendo experiencia en diversas tecnologías ⚙️. Mi enfoque principal se encuentra en el desarrollo front-end 💻, mientras trabajo para convertirme en un desarrollador full-stack en el futuro✨.</p>
-<p><a href="https://www.linkedin.com/in/cristopher-gomez-sárate-b1a088250"></a><img src="https://img.shields.io/badge/-@CristopherGs-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/cristopher-gomez-sárate-b1a088250" alt="LinkedIn Badge"></p>
+
+<p><a href="https://www.linkedin.com/in/cristopher-gomez-sárate-b1a088250"><img src="https://img.shields.io/badge/-@CristopherGs-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/cristopher-gomez-sárate-b1a088250" alt="LinkedIn Badge"></a></p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 
-<img align="right" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2bTIyYXgzbTNqaTM0MmRwaG50Z3piMDZnMG9iZGNyaGZrYzJ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
-<h2>⚡️ Las tecnologias que uso</h2>
+<h2>🚀 Las tecnologias que uso</h2>
+<img align="right" style="margin-left:80px;" height="250" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2bTIyYXgzbTNqaTM0MmRwaG50Z3piMDZnMG9iZGNyaGZrYzJ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
+
 <div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
