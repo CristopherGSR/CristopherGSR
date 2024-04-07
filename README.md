@@ -7,7 +7,7 @@
 
 <h2>🚀 Las tecnologias que uso</h2>
 
-<img align="right" style="margin-left:80px;" height="250" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2bTIyYXgzbTNqaTM0MmRwaG50Z3piMDZnMG9iZGNyaGZrYzJ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
+<img align="center" width="100%" height="300" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 <div align="left">
  
